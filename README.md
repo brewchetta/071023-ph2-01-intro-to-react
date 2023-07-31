@@ -20,3 +20,9 @@ npm install react react-scripts react-dom
 ```
 
 This will install 3 packages for us (react, react-scripts, and react-dom).
+
+You can then attempt to run the development server with:
+
+```
+npm start
+```
